@@ -1,0 +1,16 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "pomodoro node cli app",
+  "main": "index.js",
+  "repository": "git@github.com:flamisz/pomodoro.git",
+  "author": "Zoltan Flamis <flamisz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+        "start": "node index.js"
+    },
+  "dependencies": {
+    "node-notifier": "^7.0.2",
+    "tiny-timer": "^1.5.0"
+  }
+}
